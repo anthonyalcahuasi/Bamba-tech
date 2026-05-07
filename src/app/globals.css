@@ -5,6 +5,12 @@
   --foreground: #171717;
 }
 
+@theme {
+  --color-bamba-blue: #0B47D9;
+  --color-bamba-green: #00c875;
+  --color-bamba-light: #f8f9fb;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
